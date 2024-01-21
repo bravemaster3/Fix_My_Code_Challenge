@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-"""square class definition"""
+"""
+square class definition
+"""
+
+
 class square():
     """square class definition"""
     width = 0
